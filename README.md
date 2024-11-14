@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joewilliams007&label=Profile%20views&color=00ff00&style=plastic" alt="joewilliams007" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">@joewilliams007:matrix.org
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
